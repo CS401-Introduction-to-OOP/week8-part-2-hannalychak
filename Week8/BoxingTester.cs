@@ -2,7 +2,7 @@ namespace Week8;
 
 public static class BoxingTester
 {
-    static void Test()
+    public static void Test()
     {
         int a = 18; 
 
